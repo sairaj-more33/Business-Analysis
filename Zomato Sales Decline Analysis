@@ -1,0 +1,155 @@
+Case Study - Zomato Sales Decline Analysis 
+
+Role - Business Analyst 
+Prepared by - Sairaj More
+Date - [ 26/06/2026 ]
+
+
+Business Problem :
+Problem Statement  : Zomato's Sales Declining Over the Last 6 Month's .
+Objective          : Find the Root Cause and Recommended Data Driven Solution .
+
+
+Key Clarifications : (Ask follow up Questions) 
+                     1) Is the Decline in Sales , Revenue , Profit or Order ? 
+                     2) Is this Affecting all Cites or Only Specific Region ?
+                     3) Which Business Line is Impacted ?
+                     4) Which Customer segment is Contributing to the Decline ?
+
+
+Scopes and Assumptions : (Answers of the above Questions Given By the Data analyst and Interviewer)
+                         1) Sales Decline      : 20%
+                         2) Business Line      : Food Delivery 
+                         3) Geography          : Mumbai 
+                         4) Time Period        : Last 6 Months 
+                         5) Customer Segments : Repeat Customer 
+
+
+Make KPIs : 
+           1) Sales Revenue                   - Primary KPI
+           2) Average Order Value by Customer - Supporting KPI
+           3) Customer Retention              - Supporting KPI
+           4) Customer Churn                  - Supporting KPI
+
+
+
+Breakdown Problem into 2 Different Factors : 
+1) Internal Factor : 1) App Performance Issue - ( UI/UX design)
+                     2) Checkout Failures
+                     3) Delivery Delays 
+                     4) Order Cancellation 
+                     5) Customer Support Problem
+                     6) Higher Platform Fees 
+                     7) Reduced Discounts
+                     
+2) External Factor : 1) Other Market Competitors
+                     2) Increasing Price / Price Sensitive Customer 
+                     3) Inflation
+                     4) Fuel Price Increasing for Home Delivery 
+                     5) Change Food Preferences
+                     6) Seasonal Demand Pattern 
+                     
+
+
+
+
+Hypothesis Foundation :
+
+   Hypothesis                                  Validation 
+1) Delivery Time Increased                     Delivery Time Report 
+2) Platform Fee Increased                      Pricing Analysis 
+3) Customer Compliant Increased                Compliant Dashboard 
+4) Competitor Discount Improved                Market Research   
+5) Add Performance Degraded                    Cash Report Analysis    
+
+
+
+Prioritized Hypothesis :
+
+1) Delivery Delay        - High 
+2) Pricing Changes       - High
+3) Customer Compliant    - High
+4) Competitor Offer      - Medium
+5) App Performance Issue - Medium
+
+
+
+Data and Stakeholder Analysis :
+  
+  Data Required                               Stakeholder
+1) Sales and Revenue Report                   Business Manager 
+2) Order Trends                               Product Manager
+3) Retention and Churn Data                   Marketing Team 
+4) Delivery Time and Metrics                  Operations Team
+5) Compliant and Refund Reports               Customer Support 
+6) App Rating and Reviews                     Technology Team
+7) Competitor and Pricing Data                Restaurant Partner Team
+
+
+
+  
+Finding and Root Cause Analysis :
+
+1) Delivery     - 28 to 42 mins ( Delivery Time Increased )    >> 50% Slower Than Before 
+2) Complaints   - +35 % ( Customer Complaint Increased )       >> Service Quality Concerns
+3) Repat Orders - -18 % ( Repeat Customer Orders Declined )    >> Loyal Customer Ordering Less 
+
+
+
+Root Cause Analysis 
+
+Technique - ( Why 5 )    :
+1) Why Sales Declined ?
+2) Why Customers Ordered Less ?
+3) why Delivery was consistently Delayed ?
+4) why Insufficient delivery Partners during Peak hours ? 
+5) Why Low incentive Structure reduced partner Availability ?
+
+
+Root Cause Validated : 
+Operational Inefficiencies combined with increased competition led to lower Customer satisfaction and reduced repeat orders
+
+
+
+
+Recommended Solutions :
+
+   0 - 3 Months                                         3 - 12 Months 
+1) increase delivery partner incentives                 AI based Delivery Routing 
+2) improve refund turnaround time                       Restaurant Performance Monitoring
+3) targeted discounts for repeat customers              Pricing Strategy Redesign
+4) Fix critical app issues                              Strengthen loyalty Program                 
+5) Launch Retention campaigns                           Enhance App Scalability 
+
+
+
+
+Prioritization Matrix :
+
+   Recommendations :                         Priority :
+1) Improve Delivery Operations               High
+2) Enhance Customer Support                  High
+3) Fix App Performance                       High 
+4) Review Pricing Strategy                   Medium
+5) Launch Loyalty Program                    Medium 
+6) Technology Enhancement                    Low  
+
+
+
+Success Matrix (KPI's) :
+
+1) Revenue    : Sales Growth       >> Monthly Revenue Increases 
+2) Orders     : Order Count        >> Total Completed Orders
+3) Retention  : Customer Retention >> Repeat Customer Rate 
+4) Delivery   : Delivery Time      >> Average Minutes Per Order 
+5) Support    : Resolution Time    >> Complaint Turnaround Time
+6) Experince  : CSAT & NPS         >> Customer Satisfaction Score
+
+
+
+Monitoring and Contionus Improvement :
+
+1) Operational : Weekly  Monitoring     >> Delivery Time , Order Count , Complaints , App Performance 
+2) Business    : Monthly Monitoring     >> Revenue , Retention , Churn , Customer Satisfaction 
+3) Itreative   : Contionous Improvement >> Review KPI trends and implement itrative enhancement 
+
